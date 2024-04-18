@@ -1,0 +1,1 @@
+Get-NetTCPConnection | select OwningProcess,local*,remote*,state,@{Name="Process";Expression={(Get-Process -Id $_.OwningProcess).ProcessName}} | Sort-Object -Property State,Process,OwningProcess | Format-Table
