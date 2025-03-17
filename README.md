@@ -1,7 +1,7 @@
 # Welcome to my Script Library!
 ### List of scripts & their descriptions:
 - Anti-bloat.ps1
-  - Removes bloatware from Windows 10/11 installations (read the script before execution for more options)
+  - Removes bloatware from Windows 10/11 installations (Read script before execution for more options)
 - Baseline.ps1
   - Gathers a system forensic baseline REMOTELY (WinRM must be enabled!)
 - CopyDriverFiles_v1.3.ps1
@@ -9,7 +9,7 @@
 - GPU-P-Partition_Updated.ps1
   - GPU Passthru from host machine to selected VM (Hyper-V)
 - Icon Restore.bat
-  - Clears IconCache.db and restarts explorer.exe when application icons break
+  - Clears IconCache.db and restarts Explorer.exe when application icons break
 - MediaOrganizer.ps1
   - Puts all files from a directory into sub-directories with their respective file name (Plex hosters)
 - MediaOrganizer.sh
@@ -23,7 +23,7 @@
 - README.md
   - This file that you're reading right now
 - Show-MetaData.ps1
-  - Pulls ALL metadata from a single file of your choosing (directory version coming soon)
+  - Pulls ALL metadata from a single file of your choosing (directory version coming soon!)
 - Win10_Activator.bat
   - Activates Win10/11 with Generic Volume License Key (GVLK) against KMS Servers (Useful for VM's that need activation)
 - Win11_Menu_Revert.ps1
