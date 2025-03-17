@@ -26,6 +26,8 @@
   - Pulls ALL metadata from a single file of your choosing (directory version coming soon!)
 - Win10_Activator.bat
   - Activates Win10/11 with Generic Volume License Key (GVLK) against KMS Servers (Useful for VM's that need activation)
+- Win10_Activator.ps1
+  - Same as its batch script alternative. This is still being worked on. USE THE BATCH SCRIPT AS ADMIN!
 - Win11_Menu_Revert.ps1
   - Gives Windows 11 the Windows 10 contextual menu. A MUST HAVE!!
 - WinRM-Setup.ps1
