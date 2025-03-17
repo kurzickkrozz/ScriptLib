@@ -11,7 +11,7 @@
 - Icon Restore.bat
   - Clears IconCache.db and restarts explorer.exe when application icons break
 - MediaOrganizer.ps1
-  - Puts all media from a single directory into individual sub-directories with their respective file name (Plex hosters)
+  - Puts all files from a directory into sub-directories with their respective file name (Plex hosters)
 - MediaOrganizer.sh
   - Same as MediaOrganizer.ps1, but written in bash for Linux-based systems
 - Procs&IP.ps1
