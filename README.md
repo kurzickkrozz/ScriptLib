@@ -24,6 +24,8 @@
   - This file that you're reading right now
 - Show-MetaData.ps1
   - Pulls ALL metadata from a single file of your choosing (directory version coming soon!)
+- TR-MediaFixer.zip
+  - Script and .dll to match media file's Filename to its "Title" property (For Plex to properly display it)
 - Win10_Activator.bat
   - Activates Win10/11 with Generic Volume License Key (GVLK) against KMS Servers (Useful for VM's that need activation)
 - Win10_Activator.ps1
