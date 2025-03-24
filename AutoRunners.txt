@@ -1,0 +1,92 @@
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GinaDLL
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Setup Programs
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKLM\System\CurrentControlSet\Control\SafeBoot\AlternateShell
+HKLM\System\CurrentControlSet\Control\SafeBoot\Minimal
+HKLM\System\CurrentControlSet\Control\SafeBoot\Network
+HKLM\System\CurrentControlSet\Services
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Load
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Run
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\RunOnce
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+HKLM\Software\Policies\Microsoft\Windows\System\Scripts\Logon
+HKLM\Software\Policies\Microsoft\Windows\System\Scripts\Startup
+HKCU\Software\Policies\Microsoft\Windows\System\Scripts\Logon
+HKCU\Software\Policies\Microsoft\Windows\System\Scripts\Startup
+C:\Users\$env:USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+C:\Windows\System32\GroupPolicy\Machine\Scripts\Startup
+C:\Windows\System32\GroupPolicy\User\Scripts\Logon
+$env:APPDATA\Microsoft\Windows\Start Menu\Programs\Startup
+$env:ALLUSERSPROFILE\Microsoft\Windows\Start Menu\Programs\Startup
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Startup
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Startup
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Startup
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Startup
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Boot
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Idle
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Maintenance
+HKLM\SYSTEM\CurrentControlSet\Services\Winlogon\Notify
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\Authentication Packages
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\Security Packages
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\Notification Packages
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Drivers32
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\VMApplet
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Taskman
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\UIHost
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\AppSetup
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\ParseAutoexec
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\System
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\ShellServiceObjectDelayLoad
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\SFCScan
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\GinaInit
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\PowerdownAfterShutdown
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\ShutdownFlags
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\AllocateSystemResources
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\DebugServer
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\LogonType
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\ReportBootOK
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\AutoAdminLogon
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\DefaultUserName
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\DefaultDomainName
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\DefaultPassword
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\ForceAutoLogon
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\DontDisplayLastUserName
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\LegalNoticeCaption
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\LegalNoticeText
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\CachedLogonCount
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\PasswordExpiryWarning
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\ShutdownWithoutLogon
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\PowerdownAfterShutdown
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\System
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit
+HKLM\SOFTWARE\Policies\Microsoft\Windows\System\Scripts\Startup
+HKLM\SOFTWARE\Policies\Microsoft\Windows\System\Scripts\Logon
+HKCU\SOFTWARE\Policies\Microsoft\Windows\System\Scripts\Startup
+HKCU\SOFTWARE\Policies\Microsoft\Windows\System\Scripts\Logon
+HKLM\SYSTEM\CurrentControlSet\Services
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SvcHost
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Svchost
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Monitors
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Providers
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Environments
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Drivers
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Ports
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Servers
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Schedulers
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Spooler
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Fax
