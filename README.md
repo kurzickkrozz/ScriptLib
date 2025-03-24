@@ -2,6 +2,8 @@
 ### List of scripts & their descriptions:
 - Anti-bloat.ps1
   - Removes bloatware from Windows 10/11 installations (Read script before execution for more options)
+- Autorunners.txt
+  - Extensive list of Windows Autorun locations
 - Baseline.ps1
   - Gathers a system forensic baseline REMOTELY (WinRM must be enabled!)
 - CopyDriverFiles_v1.3.ps1
