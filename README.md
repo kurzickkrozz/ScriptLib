@@ -3,11 +3,10 @@
 Be aware of what these scripts do (Essentially, do your own homework). I am not responsible if your system configuration gets messed up because you don't understand what these scripts do or how they work. The scripts in this library are not intended to be suspicious or malicious in any way; however, if they cause system instability (it's probably because you've used them incorrectly), that is not on me. Read the code. Understand what it does. Execute what you need ran.
 ### !!Note!!
 On Windows 10/11, there is a default policy set to not allow scripts to be ran. To circumvent this, open an administrative PowerShell and run the command:
-
-``Set-ExecutionPolicy Bypass``
+ - ``Set-ExecutionPolicy Bypass``
 To lockdown the execution policy when you're done running the script(s), run this similar command in an administrative PowerShell: 
-
-``Set-ExecutionPolicy Default`` <-- For Windows 10/11, the policy is ``Restricted``. For Windows Server, the policy is ``RemoteSigned``.
+ - ``Set-ExecutionPolicy Default``
+   - For Windows 10/11, the policy is ``Restricted``. For Windows Server, the policy is ``RemoteSigned``.
 
 ### List of scripts & their descriptions:
 - Anti-bloat.ps1
