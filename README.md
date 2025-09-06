@@ -37,9 +37,9 @@ Be aware of what these scripts do (Essentially, do your own homework). I am not 
   - Pulls ALL metadata from a single file of your choosing (directory version coming soon!)
 - TR-MediaFixer.zip
   - Script and .dll to match media file's Filename to its "Title" property (For Plex to properly display it)
-- Win10_Activator.bat
+- Win10_Activator.bat -- *RUN AS ADMIN\*
   - Activates Win10/11 with Generic Volume License Key (GVLK) against KMS Servers (Useful for VM's that need activation)
-- Win10_Activator.ps1
+- Win10_Activator.ps1 -- *RUN AS ADMIN\* -- *STILL IN DEVELOPMENT\*
   - Same as its batch script alternative. This is still being worked on. USE THE BATCH SCRIPT AS ADMIN!
 - Win11_Menu_Revert.ps1
   - Gives Windows 11 the Windows 10 contextual menu. A MUST HAVE!!
