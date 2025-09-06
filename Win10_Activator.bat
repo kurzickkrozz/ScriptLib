@@ -1,5 +1,5 @@
 @echo off
-title Win10 Activator&cls&echo ************************************ &echo Your friend: TunnelRat &echo.&echo Supported products:&echo - Windows 10 Home&echo - Windows 10 Professional&echo - Windows 10 Enterprise, Enterprise LTSB&echo - Windows 10 Education&echo.&echo.&echo ************************************ &echo Windows 10 activation...
+title Win10/11 Activator&cls&echo ************************************ &echo Your friend: TunnelRat &echo.&echo Supported products:&echo - Windows 10/11 Home&echo - Windows 10/11 Professional&echo - Windows 10/11 Enterprise, Enterprise LTSB&echo - Windows 10/11 Education&echo.&echo.&echo ************************************ &echo Windows 10/11 activation...
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk 3KHY7-WNT83-DGQKR-F7HPR-844BM >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH >nul
@@ -20,4 +20,5 @@ if %i%==2 set KMS_Sev=kms.shuax.com
 if %i%==3 set KMS_Sev=AlwaysSmile.uk.to
 cscript //nologo c:\windows\system32\slmgr.vbs /skms %KMS_Sev% >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ato | find /i "successfully" && (echo.&  ************************************ & echo. & choice /n /c YN /m "Do you want to restart your PC now [Y,N]?" & if errorlevel 2 exit) || (echo The connection to the server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
+
 shutdown.exe /r /t 00
