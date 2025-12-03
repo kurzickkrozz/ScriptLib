@@ -15,10 +15,11 @@ cscript //nologo c:\windows\system32\slmgr.vbs /ipk WNMTR-4C88C-JK8YV-HQ7T2-76DF
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk 2F77B-TNFGY-69QQF-B8YKP-D69TJ >nul
 echo ************************************ &echo.&echo.&set i=1
 :server
-if %i%==1 set KMS_Sev=kms.ddns.net
-if %i%==2 set KMS_Sev=kms.shuax.com
+if %i%==1 set KMS_Sev=kms8.msguides.com
+if %i%==2 set KMS_Sev=kms.ddns.net
 if %i%==3 set KMS_Sev=AlwaysSmile.uk.to
 cscript //nologo c:\windows\system32\slmgr.vbs /skms %KMS_Sev% >nul
 cscript //nologo c:\windows\system32\slmgr.vbs /ato | find /i "successfully" && (echo.&  ************************************ & echo. & choice /n /c YN /m "Do you want to restart your PC now [Y,N]?" & if errorlevel 2 exit) || (echo The connection to the server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
 
 shutdown.exe /r /t 00
+
